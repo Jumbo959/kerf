@@ -1,0 +1,12 @@
+{
+  "sheet": { "w": 2800, "h": 2070, "kerf": 4, "trim": 10 },
+  "pieces": [
+    { "name": "side", "w": 720, "h": 560, "qty": 2, "grain": "along" },
+    { "name": "bottom", "w": 568, "h": 560, "qty": 1, "grain": "along" },
+    { "name": "top", "w": 568, "h": 560, "qty": 1, "grain": "along" },
+    { "name": "shelf", "w": 568, "h": 540, "qty": 3, "grain": "along" },
+    { "name": "door", "w": 716, "h": 396, "qty": 2, "grain": "along" },
+    { "name": "plinth", "w": 568, "h": 100, "qty": 1, "grain": "none" },
+    { "name": "rail", "w": 568, "h": 80, "qty": 2, "grain": "none" }
+  ]
+}
